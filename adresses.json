@@ -1,0 +1,1056 @@
+[
+  {
+    "name": "Sans nom",
+    "address": "Tv. do Cimo de Vila 4, 4000-434 Porto, Portugal",
+    "latitude": 41.1449459,
+    "longitude": -8.6064366
+  },
+  {
+    "name": "Sans nom",
+    "address": "Estrada nacional 109 cabecinhas, 3840-011 Calvão, Portugal",
+    "latitude": 40.4907863,
+    "longitude": -8.6863782
+  },
+  {
+    "name": "Sans nom",
+    "address": "Lugar do Brejo - Estrada da Ponte, Armazém A - Antanhol, 3040-575 Coimbra, Portugal",
+    "latitude": 40.158424,
+    "longitude": -8.463562
+  },
+  {
+    "name": "Sans nom",
+    "address": "R. de Dom João IV 643, 4000-035 Porto, Portugal",
+    "latitude": 41.152338,
+    "longitude": -8.6024267
+  },
+  {
+    "name": "Sans nom",
+    "address": "Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate 3512201, Égypte",
+    "latitude": 29.9791705,
+    "longitude": 31.1342046
+  },
+  {
+    "name": "Sans nom",
+    "address": "Ngách 50 Ng. 310 Đ. Nghi Tàm, Yên Phụ, Tây Hồ, Hà Nội 10000, Viêt Nam",
+    "latitude": 21.0587452,
+    "longitude": 105.8371847
+  },
+  {
+    "name": "Sans nom",
+    "address": "Quai Ernest-Ansermet 20, 1205 Genève, Suisse",
+    "latitude": 46.1966158,
+    "longitude": 6.1351769
+  },
+  {
+    "name": "Sans nom",
+    "address": "Pajang, Tangerang City, Banten, Indonésie",
+    "latitude": -6.126551,
+    "longitude": 106.6550558
+  },
+  {
+    "name": "Sans nom",
+    "address": "Quai Gustave-Ador, 1207 Genève, Suisse",
+    "latitude": 46.2073889,
+    "longitude": 6.1559028
+  },
+  {
+    "name": "Sans nom",
+    "address": "35, 2, Na Mueang, Ko Samui District, Surat Thani 84140, Thaïlande",
+    "latitude": 9.4183748,
+    "longitude": 99.9779652
+  },
+  {
+    "name": "Sans nom",
+    "address": "316/5 Samsen 4 Alley, Ban Phan Thom, Phra Nakhon, Bangkok 10200, Thaïlande",
+    "latitude": 13.762731,
+    "longitude": 100.5016636
+  },
+  {
+    "name": "Sans nom",
+    "address": "1464 Krung Kasem Rd, Wat Thep Sirin, Pom Prap Sattru Phai, Bangkok 10100, Thaïlande",
+    "latitude": 13.74649,
+    "longitude": 100.5132572
+  },
+  {
+    "name": "Sans nom",
+    "address": "661 Charoen Krung Road, Talat Noi, Samphanthawong, Bangkok 10100, Thaïlande",
+    "latitude": 13.7377075,
+    "longitude": 100.5134545
+  },
+  {
+    "name": "Sans nom",
+    "address": "Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thaïlande",
+    "latitude": 13.7498558,
+    "longitude": 100.4915765
+  },
+  {
+    "name": "Sans nom",
+    "address": "Corner Of 73rd X 40th Streets, Mahaaungmyay Tsp, Myanmar (Birmanie)",
+    "latitude": 21.9614709,
+    "longitude": 96.0947613
+  },
+  {
+    "name": "Sans nom",
+    "address": "Rue de Lausanne 126, 1202 Genève, Suisse",
+    "latitude": 46.220111,
+    "longitude": 6.1527579
+  },
+  {
+    "name": "Sans nom",
+    "address": "1202 Genève, Suisse",
+    "latitude": 46.2228092,
+    "longitude": 6.1388442
+  },
+  {
+    "name": "Sans nom",
+    "address": "Sent. des Saules 3, 1205 Genève, Suisse",
+    "latitude": 46.2014874,
+    "longitude": 6.1226818
+  },
+  {
+    "name": "Sans nom",
+    "address": "Cr de Saint-Pierre, 1204 Genève, Suisse",
+    "latitude": 46.2011267,
+    "longitude": 6.1485159
+  },
+  {
+    "name": "Sans nom",
+    "address": "158 Thanon Wang Doem, Wat Arun, Bangkok Yai, Bangkok 10600, Thaïlande",
+    "latitude": 13.7438652,
+    "longitude": 100.488444
+  },
+  {
+    "name": "Sans nom",
+    "address": "XQF3+59V, Airport Street, Lashio, Myanmar (Birmanie)",
+    "latitude": 22.9729804,
+    "longitude": 97.7534244
+  },
+  {
+    "name": "Sans nom",
+    "address": "Mawlamyine, Myanmar (Birmanie)",
+    "latitude": 16.4714573,
+    "longitude": 97.6351469
+  },
+  {
+    "name": "Sans nom",
+    "address": "Kun Chan Rd, Yangon, Myanmar (Birmanie)",
+    "latitude": 16.7816431,
+    "longitude": 96.1615239
+  },
+  {
+    "name": "Sans nom",
+    "address": "2, Pyay, Myanmar (Birmanie)",
+    "latitude": 18.8205603,
+    "longitude": 95.2169622
+  },
+  {
+    "name": "Sans nom",
+    "address": "78th St, Mandalay, Myanmar (Birmanie)",
+    "latitude": 21.9771217,
+    "longitude": 96.0861238
+  },
+  {
+    "name": "Sans nom",
+    "address": "Nyaung-U, Myanmar (Birmanie)",
+    "latitude": 21.1544645,
+    "longitude": 94.9352552
+  },
+  {
+    "name": "Sans nom",
+    "address": "5V97+G5V, Old Bagan, Myanmar (Birmanie)",
+    "latitude": 21.16886,
+    "longitude": 94.8629197
+  },
+  {
+    "name": "Sans nom",
+    "address": "Bagan Golden Palace, Old Bagan, Myanmar (Birmanie)",
+    "latitude": 21.1735829,
+    "longitude": 94.8630696
+  },
+  {
+    "name": "Sans nom",
+    "address": "5V94+5F2, Old Bagan, Myanmar (Birmanie)",
+    "latitude": 21.1678809,
+    "longitude": 94.8561555
+  },
+  {
+    "name": "Sans nom",
+    "address": "740 Rue Aimé Bonneville, 01200 Valserhône, France",
+    "latitude": 46.1444444,
+    "longitude": 5.7991667
+  },
+  {
+    "name": "Sans nom",
+    "address": "Route des Bains 42 Les Bains de Lavey, 1892 Lavey-les-bains, Suisse",
+    "latitude": 46.204123,
+    "longitude": 7.017902
+  },
+  {
+    "name": "Sans nom",
+    "address": "Chem. des Vioz, 1865 Ormont-Dessus, Suisse",
+    "latitude": 46.3463065,
+    "longitude": 7.1514573
+  },
+  {
+    "name": "Sans nom",
+    "address": "70 Av. du Médipôle, 38300 Bourgoin-Jallieu, France",
+    "latitude": 45.5971469,
+    "longitude": 5.2469135
+  },
+  {
+    "name": "Sans nom",
+    "address": "GROUND FLOOR, Wisma Sabah, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaisie",
+    "latitude": 5.9860985,
+    "longitude": 116.0768239
+  },
+  {
+    "name": "Sans nom",
+    "address": "10, Jalan Laksamana 2, Taman Kota Laksamana, 75200 Melaka, Malaisie",
+    "latitude": 2.1946371,
+    "longitude": 102.2455832
+  },
+  {
+    "name": "Sans nom",
+    "address": "W.D.T. 200, Sabah Wildlife Department, Jalan Sepilok, Sepilok, 90000 Sandakan, Sabah, Malaisie",
+    "latitude": 5.8649991,
+    "longitude": 117.9487266
+  },
+  {
+    "name": "Sans nom",
+    "address": "Off, Jalan Labuk, 90000 Sandakan, Sabah, Malaisie",
+    "latitude": 5.9240561,
+    "longitude": 117.8146388
+  },
+  {
+    "name": "Sans nom",
+    "address": "Av. do Cristo Rei, 2800-058 Almada, Portugal",
+    "latitude": 38.678656,
+    "longitude": -9.1713336
+  },
+  {
+    "name": "Sans nom",
+    "address": "9JC8+7QF, Masbate City, Masbate, Philippines",
+    "latitude": 12.3706831,
+    "longitude": 123.6169356
+  },
+  {
+    "name": "Sans nom",
+    "address": "2622+453, Coastal Road, Coron Town Proper, Coron, 5316 Palawan, Philippines",
+    "latitude": 12.0002655,
+    "longitude": 120.2004304
+  },
+  {
+    "name": "Sans nom",
+    "address": "Estrada da Pena, 2710-609 Sintra, Portugal",
+    "latitude": 38.7875851,
+    "longitude": -9.3906089
+  },
+  {
+    "name": "Sans nom",
+    "address": "Sra'aem, Cambodge",
+    "latitude": 14.2426973,
+    "longitude": 104.7224734
+  },
+  {
+    "name": "Sans nom",
+    "address": "National Road No 2, Tro Pang Sap Village, Tro Pang Sap Commune, Takeo 210815, Cambodge",
+    "latitude": 11.2994619,
+    "longitude": 104.7906171
+  },
+  {
+    "name": "Sans nom",
+    "address": "Quai du Général-Guisan 28, 1204 Genève, Suisse",
+    "latitude": 46.204192,
+    "longitude": 6.1509893
+  },
+  {
+    "name": "Sans nom",
+    "address": "F6GH+6GF, Phumi Boeng Mealea, Cambodge",
+    "latitude": 13.475565,
+    "longitude": 104.2287969
+  },
+  {
+    "name": "Sans nom",
+    "address": "Siem Reap, Cambodge",
+    "latitude": 13.4412831,
+    "longitude": 103.8589036
+  },
+  {
+    "name": "Sans nom",
+    "address": "Siem Reap, Cambodge",
+    "latitude": 13.4412831,
+    "longitude": 103.8589036
+  },
+  {
+    "name": "Sans nom",
+    "address": "Krong Siem Reap, Cambodge",
+    "latitude": 13.4124693,
+    "longitude": 103.8669857
+  },
+  {
+    "name": "Sans nom",
+    "address": "Krong Siem Reap, Cambodge",
+    "latitude": 13.4347941,
+    "longitude": 103.8893041
+  },
+  {
+    "name": "Sans nom",
+    "address": "Arquipélago das Berlengas, Peniche, Portugal",
+    "latitude": 39.4114019,
+    "longitude": -9.5101576
+  },
+  {
+    "name": "Sans nom",
+    "address": "Berlengas, Portugal",
+    "latitude": 39.4147662,
+    "longitude": -9.5103052
+  },
+  {
+    "name": "Sans nom",
+    "address": "R. de São Filipe de Nery, 4050-546 Porto, Portugal",
+    "latitude": 41.1456705,
+    "longitude": -8.6145977
+  },
+  {
+    "name": "Sans nom",
+    "address": "Largo Infante Dom Henrique, 2440-109 Batalha, Portugal",
+    "latitude": 39.6591585,
+    "longitude": -8.8255399
+  },
+  {
+    "name": "Sans nom",
+    "address": "Avenue de l´Aéroport, Ouagadougou, Burkina Faso",
+    "latitude": 12.3549934,
+    "longitude": -1.513994
+  },
+  {
+    "name": "Sans nom",
+    "address": "Bhavbhuti Marg, Ratan Lal Market, Kamla Market, Ajmeri Gate, New Delhi, Delhi, 110006, Inde",
+    "latitude": 28.6428915,
+    "longitude": 77.2190894
+  },
+  {
+    "name": "Sans nom",
+    "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, Inde",
+    "latitude": 27.1751448,
+    "longitude": 78.0421422
+  },
+  {
+    "name": "Sans nom",
+    "address": "Arizona, États-Unis",
+    "latitude": 36.2678855,
+    "longitude": -112.3535253
+  },
+  {
+    "name": "Sans nom",
+    "address": "1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102, États-Unis",
+    "latitude": 37.779275,
+    "longitude": -122.4192417
+  },
+  {
+    "name": "Sans nom",
+    "address": "San José, Sabana, Costa Rica",
+    "latitude": 9.9357231,
+    "longitude": -84.1041486
+  },
+  {
+    "name": "Sans nom",
+    "address": "Xian de Yanqing, Chine, 102112",
+    "latitude": 40.353974,
+    "longitude": 116.017887
+  },
+  {
+    "name": "Sans nom",
+    "address": "Largo Rainha Dona Amélia, 2710-616 Sintra, Portugal",
+    "latitude": 38.7976627,
+    "longitude": -9.3906554
+  },
+  {
+    "name": "Sans nom",
+    "address": "Av. Marginal 10, 2780-267 Cruz Quebrada, Portugal",
+    "latitude": 38.674695,
+    "longitude": -9.325136
+  },
+  {
+    "name": "Sans nom",
+    "address": "Raposeira, Portugal",
+    "latitude": 37.043906,
+    "longitude": -8.8849615
+  },
+  {
+    "name": "Sans nom",
+    "address": "Portugal",
+    "latitude": 37.5229284,
+    "longitude": -8.7874812
+  },
+  {
+    "name": "Sans nom",
+    "address": "Praia da Samoqueira, Sines, Portugal",
+    "latitude": 37.867989,
+    "longitude": -8.793306
+  },
+  {
+    "name": "Sans nom",
+    "address": "R. de São Nicolau 24, 1100-161 Lisboa, Portugal",
+    "latitude": 38.7105939,
+    "longitude": -9.1365262
+  },
+  {
+    "name": "Sans nom",
+    "address": "R. dos Remédios 190, 1100-470 Lisboa, Portugal",
+    "latitude": 38.7131728,
+    "longitude": -9.1255702
+  },
+  {
+    "name": "Sans nom",
+    "address": "Av. Brasília, 1400-038 Lisboa, Portugal",
+    "latitude": 38.6915837,
+    "longitude": -9.2159773
+  },
+  {
+    "name": "Sans nom",
+    "address": "1100-148 Lisbonne, Portugal",
+    "latitude": 38.7082595,
+    "longitude": -9.1363318
+  },
+  {
+    "name": "Sans nom",
+    "address": "Esplanada Dom Carlos I s/nº, 1990-005 Lisboa, Portugal",
+    "latitude": 38.7635435,
+    "longitude": -9.0937415
+  },
+  {
+    "name": "Sans nom",
+    "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, Portugal",
+    "latitude": 38.7139092,
+    "longitude": -9.1334762
+  },
+  {
+    "name": "Sans nom",
+    "address": "R. da Junqueira 508 510, 1300-341 Lisboa, Portugal",
+    "latitude": 38.6975386,
+    "longitude": -9.1989004
+  },
+  {
+    "name": "Sans nom",
+    "address": "Av. Rei Humberto II de Itália 642, 2750-642 Cascais, Portugal",
+    "latitude": 38.6913127,
+    "longitude": -9.4306875
+  },
+  {
+    "name": "Sans nom",
+    "address": "Estrada do Cabo da Roca s/n, 2705-001 Colares, Portugal",
+    "latitude": 38.7804003,
+    "longitude": -9.4991116
+  },
+  {
+    "name": "Sans nom",
+    "address": "Schulterblatt 71, 20357 Hamburg, Allemagne",
+    "latitude": 53.5620163,
+    "longitude": 9.9615147
+  },
+  {
+    "name": "Sans nom",
+    "address": "Marseiller Promenade, 20355 Hamburg, Allemagne",
+    "latitude": 53.5620447,
+    "longitude": 9.9819048
+  },
+  {
+    "name": "Sans nom",
+    "address": "Rennbahnstraße 90, 22111 Hamburg, Allemagne",
+    "latitude": 53.558537,
+    "longitude": 10.081829
+  },
+  {
+    "name": "Sans nom",
+    "address": "Flughafenstr. 1-3, 22335 Hamburg, Allemagne",
+    "latitude": 53.6318994,
+    "longitude": 9.9957995
+  },
+  {
+    "name": "Sans nom",
+    "address": "Chine, Hebei, Chengde, Luanping County, G45大广高速出口 邮政编码: 068254",
+    "latitude": 40.6842291,
+    "longitude": 117.2832887
+  },
+  {
+    "name": "Sans nom",
+    "address": "Prom. des Bastions 1, 1205 Genève, Suisse",
+    "latitude": 46.200738,
+    "longitude": 6.1445653
+  },
+  {
+    "name": "Sans nom",
+    "address": "Chine, Shanghai, Minhang District, Huayou Rd, 华友路260弄 邮政编码: 201100",
+    "latitude": 31.136983,
+    "longitude": 121.356131
+  },
+  {
+    "name": "Sans nom",
+    "address": "No.110-25 South zhongshan Road, Guilin, GX, Chine",
+    "latitude": 25.2680267,
+    "longitude": 110.2875093
+  },
+  {
+    "name": "Sans nom",
+    "address": "226 Taihua S Rd, Xincheng, Xi'An, Shaanxi, Chine, 710015",
+    "latitude": 34.283604,
+    "longitude": 108.969917
+  },
+  {
+    "name": "Sans nom",
+    "address": "6 Peixin St, Dongcheng, Beijing, Chine, 100062",
+    "latitude": 39.891421,
+    "longitude": 116.432142
+  },
+  {
+    "name": "Sans nom",
+    "address": "5-6 Dogoyunomachi, Matsuyama, Ehime 790-0842, Japon",
+    "latitude": 33.8520748,
+    "longitude": 132.7864098
+  },
+  {
+    "name": "Sans nom",
+    "address": "1 Kinkakujicho, Kita Ward, Kyoto, 603-8361, Japon",
+    "latitude": 35.03937,
+    "longitude": 135.7292431
+  },
+  {
+    "name": "Sans nom",
+    "address": "Japon, 〒097-1111 Hokkaido, Rebun District, Rebun, Funadomarimura, 字ヲションナイ",
+    "latitude": 45.4404299,
+    "longitude": 141.0363727
+  },
+  {
+    "name": "Sans nom",
+    "address": "2200 Oegawa, Kumagaya, Saitama 360-0102, Japon",
+    "latitude": 36.1104336,
+    "longitude": 139.3353429
+  },
+  {
+    "name": "Sans nom",
+    "address": "Puntarenas Province, Monteverde, Costa Rica",
+    "latitude": 10.2989417,
+    "longitude": -84.7681559
+  },
+  {
+    "name": "Lat: 31.637735, Lng: -7.985582",
+    "address": "Chariaa Bradiia, Derb Lalla Aouich, Arrondissement de Marrakech-Medina, Marrakech, Préfecture de Marrakech, Marrakech-Safi, 40015, Maroc",
+    "latitude": 31.637734767769427,
+    "longitude": -7.985581771770313,
+    "city": "Marrakech",
+    "country": "Maroc"
+  },
+  {
+    "name": "Lat: 31.504351, Lng: -9.760609",
+    "address": "Rue Bouchaib Doukkali, Essaouira Ville Nouvelle, Essaouira, Pachalik d'Essaouira, Province d'Essaouira, Marrakech-Safi, 44000, Maroc",
+    "latitude": 31.504351118775883,
+    "longitude": -9.760609006635574,
+    "city": "Essaouira",
+    "country": "Maroc"
+  },
+  {
+    "name": "Lat: 30.439340, Lng: -9.643873",
+    "address": "Anza, Agadir, Pachalik d'Agadir, Préfecture d'Agadir Ida-Outanane, Souss-Massa, Maroc",
+    "latitude": 30.439339993292947,
+    "longitude": -9.643872850279978,
+    "city": "Agadir",
+    "country": "Maroc"
+  },
+  {
+    "name": "Lat: 30.891756, Lng: -6.941169",
+    "address": "Tabounte, Tarmigt, caïdat de Ahl Ouarzazate, cercle d'Ouarzazate, Province d'Ouarzazate, Drâa-Tafilalet, 45006, Maroc",
+    "latitude": 30.891756270676968,
+    "longitude": -6.941168518076143,
+    "city": "Tarmigt",
+    "country": "Maroc"
+  },
+  {
+    "name": "Lat: 10.430419, Lng: -5.511369",
+    "address": "Niankorodougou, Léraba, Cascades, Burkina Faso",
+    "latitude": 10.430419224296854,
+    "longitude": -5.511369208471109,
+    "city": "Inconnu",
+    "country": "Burkina Faso"
+  },
+  {
+    "name": "Lat: 10.525996, Lng: -5.411428",
+    "address": "Baguéra, Loumana, Léraba, Cascades, Burkina Faso",
+    "latitude": 10.525996184295092,
+    "longitude": -5.411427607443591,
+    "city": "Baguéra",
+    "country": "Burkina Faso"
+  },
+  {
+    "name": "Lat: 12.250258, Lng: -2.363329",
+    "address": "camp fonctionnaire de koudougou, Koudougou, Boulkiemdé, Centre-Ouest, Burkina Faso",
+    "latitude": 12.250258012677351,
+    "longitude": -2.3633289226647585,
+    "city": "Koudougou",
+    "country": "Burkina Faso"
+  },
+  {
+    "name": "Lat: 10.638475, Lng: -4.755144",
+    "address": "Banfora, Comoé, Cascades, Burkina Faso",
+    "latitude": 10.638475290883074,
+    "longitude": -4.755143630691397,
+    "city": "Banfora",
+    "country": "Burkina Faso"
+  },
+  {
+    "name": "Lat: 11.185863, Lng: -4.296378",
+    "address": "Shell, Boulevard de la Révolution, Bobo-Dioulasso, Houet, Hauts-Bassins, Burkina Faso",
+    "latitude": 11.185863491696065,
+    "longitude": -4.296378346827375,
+    "city": "Bobo-Dioulasso",
+    "country": "Burkina Faso"
+  },
+  {
+    "name": "Lat: 12.059056, Lng: -2.225496",
+    "address": "N 13, Sabou, Boulkiemdé, Centre-Ouest, Burkina Faso",
+    "latitude": 12.059056171023,
+    "longitude": -2.225495647559324,
+    "city": "Sabou",
+    "country": "Burkina Faso"
+  },
+  {
+    "name": "Lat: 12.581745, Lng: -1.297220",
+    "address": "Ziniaré, Oubritenga, Plateau-Central, Burkina Faso",
+    "latitude": 12.581745334750694,
+    "longitude": -1.2972201783531936,
+    "city": "Ziniaré",
+    "country": "Burkina Faso"
+  },
+  {
+    "name": "Lat: 24.676013, Lng: 35.074075",
+    "address": "Ras Uriah, Mer-Rouge, Égypte",
+    "latitude": 24.67601260860519,
+    "longitude": 35.07407488450448,
+    "city": "Inconnu",
+    "country": "Égypte"
+  },
+  {
+    "name": "Lat: 39.227262, Lng: 9.115264",
+    "address": "2, Via Calabria, La Vega, Cagliari, Sardaigne, 09100, Italie",
+    "latitude": 39.22726216926723,
+    "longitude": 9.115263812904605,
+    "city": "Cagliari",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 39.081289, Lng: 9.014475",
+    "address": "Strada Statale 195 Sulcitana, Sarrocu/Sarroch, Cagliari, Sardaigne, 09018, Italie",
+    "latitude": 39.08128850555504,
+    "longitude": 9.014475478715461,
+    "city": "Sarrocu/Sarroch",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 38.944706, Lng: 8.929321",
+    "address": "Via Is Nuraxeddus, La Pineta, Pula, Cagliari, Sardaigne, 09050, Italie",
+    "latitude": 38.94470598950954,
+    "longitude": 8.92932135874156,
+    "city": "Pula",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 38.920136, Lng: 8.776868",
+    "address": "SP71, Domus De Maria, Sud Sardegna, Sardaigne, 09010, Italie",
+    "latitude": 38.92013586790451,
+    "longitude": 8.776868014917325,
+    "city": "Domus De Maria",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 39.313298, Lng: 8.706822",
+    "address": "Canile Comunale Musei, Strada Statale 130 Iglesiente, Musei, Sud Sardegna, Sardaigne, 09010, Italie",
+    "latitude": 39.31329797309832,
+    "longitude": 8.706821883971083,
+    "city": "Musei",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 39.182167, Lng: 8.492945",
+    "address": "Strada Statale Sirai, Sirai, Carbonia, Sud Sardegna, Sardaigne, 09013, Italie",
+    "latitude": 39.182167157240414,
+    "longitude": 8.492945247620654,
+    "city": "Carbonia",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 39.571619, Lng: 2.645685",
+    "address": "Can Granada, Carrer de Ca'n Granada, el Call, Canavall, Palma, Îles Baléares, 07012, Espagne",
+    "latitude": 39.571619242704536,
+    "longitude": 2.645684799792654,
+    "city": "Palma",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 39.536923, Lng: 2.590752",
+    "address": "Caleta de Bendinat, Cas Català, ses Illetes, Calvià, Serra de Tramuntana, Îles Baléares, 07181, Espagne",
+    "latitude": 39.53692298556097,
+    "longitude": 2.5907519731357014,
+    "city": "ses Illetes",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 37.019129, Lng: -7.934811",
+    "address": "Hostellicious, 14, Largo de São Pedro, Faro (Sé e São Pedro), Faro, 8000-139, Portugal",
+    "latitude": 37.01912943649284,
+    "longitude": -7.934811287406794,
+    "city": "Faro",
+    "country": "Portugal"
+  },
+  {
+    "name": "Lat: 37.093106, Lng: -8.254100",
+    "address": "Avenida da Liberdade, Bairro dos Pescadores, Albufeira e Olhos de Água, Albufeira, Faro, 8200-003, Portugal",
+    "latitude": 37.093105981022646,
+    "longitude": -8.254100392079387,
+    "city": "Albufeira",
+    "country": "Portugal"
+  },
+  {
+    "name": "Lat: 36.157036, Lng: -5.346021",
+    "address": "Parque Municipal Princesa Sofía, La Línea de la Concepción, Campo de Gibraltar, Cadix, Andalousie, 11300, Espagne",
+    "latitude": 36.1570361322923,
+    "longitude": -5.346020620465547,
+    "city": "La Línea de la Concepción",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 36.011927, Lng: -5.610209",
+    "address": "Paseo Marítimo, Urbanización Las Cañas, Tarifa, Campo de Gibraltar, Cadix, Andalousie, 11380, Espagne",
+    "latitude": 36.01192667679843,
+    "longitude": -5.610208779855126,
+    "city": "Tarifa",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 36.716077, Lng: -4.422662",
+    "address": "2, Calle Simonet, Soho, Centro, Malaga, Málaga-Costa del Sol, Malaga, Andalousie, 29001, Espagne",
+    "latitude": 36.71607711617504,
+    "longitude": -4.4226624848833245,
+    "city": "Malaga",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 36.813852, Lng: -2.430182",
+    "address": "Paseo Marítimo Carmen de Burgos, Nueva Almería, Alméria, Andalousie, 04007, Espagne",
+    "latitude": 36.813852035254044,
+    "longitude": -2.4301823406616823,
+    "city": "Alméria",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 41.408351, Lng: 2.185713",
+    "address": "Hotel Albéniz, Carrer d'Aragó, el Camp de l'Arpa del Clot, Sant Martí, Barcelone, Barcelonais, Barcelone, Catalogne, 08026, Espagne",
+    "latitude": 41.40835083204044,
+    "longitude": 2.1857133322301308,
+    "city": "Barcelone",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 40.416663, Lng: -3.702881",
+    "address": "5, Puerta del Sol, Barrio de los Austrias, Sol, Centro, Madrid, Communauté de Madrid, 28013, Espagne",
+    "latitude": 40.41666323372297,
+    "longitude": -3.702881049017795,
+    "city": "Madrid",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 43.300313, Lng: 5.379247",
+    "address": "École primaire Convalescents, Rue Maurice Korsec, Belsunce, 1er Arrondissement, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13001, France",
+    "latitude": 43.30031320911882,
+    "longitude": 5.379247059465673,
+    "city": "Marseille",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 43.738761, Lng: 7.414609",
+    "address": "Rue Bel Respiro, Beausoleil, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06240, France",
+    "latitude": 43.738760847174156,
+    "longitude": 7.414608984547361,
+    "city": "Beausoleil",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 43.006057, Lng: 6.238022",
+    "address": "Chemin de la Pointe de la Galère, Hyères, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83400, France",
+    "latitude": 43.006057247498454,
+    "longitude": 6.238021712267284,
+    "city": "Hyères",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 43.122075, Lng: 6.261700",
+    "address": "Chemin de la Corniche, La Londe-les-Maures, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83250, France",
+    "latitude": 43.122074769019854,
+    "longitude": 6.261699716651471,
+    "city": "La Londe-les-Maures",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 44.841491, Lng: -0.571091",
+    "address": "École élémentaire du Vieux Bordeaux, Rue du Pont de la Mousque, Bordeaux, Port de la Lune, Bordeaux Centre, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33000, France",
+    "latitude": 44.841491242529585,
+    "longitude": -0.5710914219738351,
+    "city": "Bordeaux",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 45.780510, Lng: 3.085836",
+    "address": "Rue Claussmann, Les Bughes, Plateau central, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63000, France",
+    "latitude": 45.780509813760645,
+    "longitude": 3.0858355818665655,
+    "city": "Clermont-Ferrand",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 45.439445, Lng: 4.394391",
+    "address": "Djenna Couture, Rue de la République, Crêt de Roc, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42000, France",
+    "latitude": 45.4394453672247,
+    "longitude": 4.394390632450116,
+    "city": "Saint-Étienne",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 48.854603, Lng: 2.345995",
+    "address": "Place Louis Lépine, Quartier Les Îles, Paris 4e Arrondissement, Paris, France métropolitaine, 75004, France",
+    "latitude": 48.85460304964657,
+    "longitude": 2.3459947136118546,
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 52.520239, Lng: 13.396508",
+    "address": "Îles aux musées, Hinter dem Gießhaus, Friedrichswerder, Mitte, Berlin, 10117, Allemagne",
+    "latitude": 52.5202389148856,
+    "longitude": 13.39650789972515,
+    "city": "Berlin",
+    "country": "Allemagne"
+  },
+  {
+    "name": "Lat: 51.514070, Lng: -0.113801",
+    "address": "Cour royale de justice, Strand, St Clement Danes, Holborn, Londres, Grand Londres, Angleterre, WC2A 2LL, Royaume-Uni",
+    "latitude": 51.51406963372431,
+    "longitude": -0.11380111687545826,
+    "city": "Londres",
+    "country": "Royaume-Uni"
+  },
+  {
+    "name": "Lat: 53.354021, Lng: -6.246882",
+    "address": "Fáilte Ireland Catering College, 88-95, Amiens Street, North Dock C ED, Dublin, Comté de Dublin, Leinster, D01 WR86, Irlande",
+    "latitude": 53.354021100419814,
+    "longitude": -6.246882060347636,
+    "city": "Dublin",
+    "country": "Irlande"
+  },
+  {
+    "name": "Lat: 59.335454, Lng: 18.054840",
+    "address": "Norra Bantorget, Klara, Norrmalm, Norra innerstadens stadsdelsområde, Stockholm, Stockholms kommun, Comté de Stockholm, 111 23, Suède",
+    "latitude": 59.33545383702605,
+    "longitude": 18.054840157569686,
+    "city": "Stockholm",
+    "country": "Suède"
+  },
+  {
+    "name": "Lat: 47.501647, Lng: 19.042232",
+    "address": "Európa rendezvényhajó, Sztehlo Gábor rakpart, Buda, Víziváros, I. kerület, Budapest, Hongrie centrale, 1011, Hongrie",
+    "latitude": 47.50164732239285,
+    "longitude": 19.04223249702788,
+    "city": "Budapest",
+    "country": "Hongrie"
+  },
+  {
+    "name": "Lat: 44.409374, Lng: 8.925775",
+    "address": "Biosfera, Ponte degli Spìnola, Sottoripa, Centro Est, Gênes, Ligurie, 16100, Italie",
+    "latitude": 44.4093736613492,
+    "longitude": 8.925774683028722,
+    "city": "Gênes",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 45.436624, Lng: 12.324691",
+    "address": "Campo de CastelForte, San Polo, Venezia-Murano-Burano, Venise, Vénétie, 30125, Italie",
+    "latitude": 45.436623828074005,
+    "longitude": 12.324691403861527,
+    "city": "Venise",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 43.374936, Lng: -1.783040",
+    "address": "ado plage, Itsasbazterreko bidexkako ibilaldia, Labourd, Zokoburu, Hendaye, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64700, France",
+    "latitude": 43.37493600215507,
+    "longitude": -1.7830396826551123,
+    "city": "Hendaye",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 43.608852, Lng: 3.882380",
+    "address": "23, Allée Jules Milhau, Comédie, Centre, Montpellier, Hérault, Occitanie, France métropolitaine, 34064, France",
+    "latitude": 43.60885244530437,
+    "longitude": 3.8823796001138353,
+    "city": "Montpellier",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 45.185053, Lng: 5.736331",
+    "address": "Cloche Mistral, Allée des Justes, Exposition Bajatière, Secteur 5, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38000, France",
+    "latitude": 45.185053420824474,
+    "longitude": 5.736331166687841,
+    "city": "Grenoble",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 48.211001, Lng: 16.370717",
+    "address": "Der große Bär, Kleeblattgasse, Widmerviertel, Innere Stadt, Wien, Vienne, 1010, Autriche",
+    "latitude": 48.21100057343171,
+    "longitude": 16.370716573792635,
+    "city": "Vienne",
+    "country": "Autriche"
+  },
+  {
+    "name": "Lat: 55.709409, Lng: 37.622727",
+    "address": "Большой Староданиловский переулок, Даниловский район, Moscou, District fédéral central, 115191, Russie",
+    "latitude": 55.709409136405974,
+    "longitude": 37.62272723017795,
+    "city": "Moscou",
+    "country": "Russie"
+  },
+  {
+    "name": "Lat: 18.548664, Lng: -72.343743",
+    "address": "Rue des Miracles, Bel Air, 6e Turgeau, Port-au-Prince, Arrondissement de Port-au-Prince, Département de l'Ouest, 6114, Haïti",
+    "latitude": 18.548664459852496,
+    "longitude": -72.34374321037764,
+    "city": "Arrondissement de Port-au-Prince",
+    "country": "Haïti"
+  },
+  {
+    "name": "Lat: 18.578119, Lng: -72.302540",
+    "address": "Impasse du Foyer Divin, Cazeau, 3e Bellevue, Commune de Tabarre, Arrondissement de Port-au-Prince, Département de l'Ouest, 6210, Haïti",
+    "latitude": 18.578118622190594,
+    "longitude": -72.30253960393865,
+    "city": "Arrondissement de Port-au-Prince",
+    "country": "Haïti"
+  },
+  {
+    "name": "Lat: 18.538737, Lng: -72.408811",
+    "address": "Route Nationale # 2, Garde Cote, 2e Platon Dufréné, Carrefour, Arrondissement de Port-au-Prince, Département de l'Ouest, 6132, Haïti",
+    "latitude": 18.538736773761467,
+    "longitude": -72.40881057221252,
+    "city": "Arrondissement de Port-au-Prince",
+    "country": "Haïti"
+  },
+  {
+    "name": "Lat: 18.527506, Lng: -72.348379",
+    "address": "Ruelle Martineau 3e, Carrefour Feuilles, 7e Morne de l'Hôpital, Port-au-Prince, Arrondissement de Port-au-Prince, Département de l'Ouest, 6116, Haïti",
+    "latitude": 18.52750640072749,
+    "longitude": -72.34837861610202,
+    "city": "Arrondissement de Port-au-Prince",
+    "country": "Haïti"
+  },
+  {
+    "name": "Lat: 18.269934, Lng: -72.538501",
+    "address": "6e Montagne La Voûte, Bassin Caiman, Commune Jacmel, Arrondissement de Jacmel, Département du Sud-Est, Haïti",
+    "latitude": 18.26993393955837,
+    "longitude": -72.53850120262716,
+    "city": "Commune Jacmel",
+    "country": "Haïti"
+  },
+  {
+    "name": "Lat: 26.912844, Lng: 75.811474",
+    "address": "Mahavir Marg, Adarsh Nagar, Jaipur, Jaipur Municipal Corporation, Jaipur Tehsil, Jaipur, Rajasthan, 302004, Inde",
+    "latitude": 26.912844345585718,
+    "longitude": 75.81147416702652,
+    "city": "Jaipur",
+    "country": "Inde"
+  },
+  {
+    "name": "Lat: 26.476063, Lng: 74.633051",
+    "address": "Ajmer, Ajmer Tehsil, Ajmer, Rajasthan, 305004, Inde",
+    "latitude": 26.476062906825764,
+    "longitude": 74.6330510228717,
+    "city": "Ajmer",
+    "country": "Inde"
+  },
+  {
+    "name": "Lat: 26.308762, Lng: 73.012764",
+    "address": "Jodhpur, Jodhpur Tehsil, Jodhpur, Rajasthan, 342003, Inde",
+    "latitude": 26.308762083652894,
+    "longitude": 73.01276363843739,
+    "city": "Jodhpur",
+    "country": "Inde"
+  },
+  {
+    "name": "Lat: 43.781125, Lng: 11.259013",
+    "address": "3, Via Bonifacio Lupi, Quartiere 1, Florence, Firenze, Toscane, 50120, Italie",
+    "latitude": 43.78112514236521,
+    "longitude": 11.259012859406718,
+    "city": "Florence",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 40.642645, Lng: 17.954605",
+    "address": "Sciaia, Perrino, Brindisi, Pouilles, 72100, Italie",
+    "latitude": 40.64264491015263,
+    "longitude": 17.954604730047393,
+    "city": "Brindisi",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 41.895407, Lng: 12.483405",
+    "address": "Piazza Venezia, Campitelli, Municipio Roma I, Rome, Roma Capitale, Latium, 00187, Italie",
+    "latitude": 41.89540712468013,
+    "longitude": 12.48340538002923,
+    "city": "Rome",
+    "country": "Italie"
+  },
+  {
+    "name": "Lat: 13.492878, Lng: 2.181185",
+    "address": "Aéroport international Diori-Hamani, Rue Mahamadou Issa Ganda dit Mahamadou Gao, Talladjé Koado, Talladjé, Arrondissement Communal Niamey 4, Niamey, Kollo, 5001, Niger",
+    "latitude": 13.492878248370909,
+    "longitude": 2.1811853669915764,
+    "city": "Niamey",
+    "country": "Niger"
+  },
+  {
+    "name": "Lat: 39.473552, Lng: -0.378826",
+    "address": "Mercat Central, 5, Plaça del Mercat, Ciutat Vella, Valence, Comarca de València, Valence, Communauté Valencienne, 46001, Espagne",
+    "latitude": 39.47355235249336,
+    "longitude": -0.3788261288808027,
+    "city": "Valence",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 38.353266, Lng: -0.492979",
+    "address": "Conservatorio Superior de Música Óscar Esplá, Carrer del Catedràtic Jaume Mas i Porcel / Calle Catedrático Jaume Mas i Porcel, el Tossal, Alicante, l'Alacantí, Alicante, Communauté Valencienne, 03005, Espagne",
+    "latitude": 38.35326552903862,
+    "longitude": -0.49297860229346574,
+    "city": "Alicante",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 43.599405, Lng: 1.442748",
+    "address": "Capitis Coiffure, Rue des Paradoux, Esquirol, Capitole / Arnaud Bernard / Carmes, Toulouse, Haute-Garonne, Occitanie, France métropolitaine, 31000, France",
+    "latitude": 43.59940535595081,
+    "longitude": 1.4427483461324764,
+    "city": "Toulouse",
+    "country": "France"
+  },
+  {
+    "name": "Lat: 42.229144, Lng: -8.715528",
+    "address": "Colexio Privado Fillas de María Inmaculada, Rúa Alcalde Vázquez Varela, A Dobrada, O Corazón de María, Vigo, Pontevedra, Galice, 36204, Espagne",
+    "latitude": 42.22914423397106,
+    "longitude": -8.715528448782175,
+    "city": "Vigo",
+    "country": "Espagne"
+  },
+  {
+    "name": "Lat: 38.848168, Lng: -77.040721",
+    "address": "Ronald Reagan Washington National Airport, 2401, Smith Boulevard, Arlington County, Virginie, 22202, États-Unis d'Amérique",
+    "latitude": 38.848168012857926,
+    "longitude": -77.04072127256727,
+    "city": "Inconnu",
+    "country": "États-Unis d'Amérique"
+  }
+]
